@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Klipers Video</string>
+    <string name="title">Klipers AutoCut (Native Android)</string>
+    <string name="selected_video">Video terpilih: %1$s</string>
+</resources>
